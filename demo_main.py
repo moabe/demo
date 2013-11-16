@@ -2,7 +2,7 @@ from functions import Functions
 
 def main():
 	
-	original_string = "Hello world!"
+	original_string = "Hello Moa!"
 
 	# Create an object f of type Functions. Internal f.__string is set to original_string at initialization
 	f = Functions(original_string)
