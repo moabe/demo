@@ -7,7 +7,7 @@ class Functions:
 
 	# Returns self.__string
 	def getString(self):
-		return # BUG!! Should return self.__string
+		return self.__string# BUG!! Should return self.__string
 	
 	# Returns True if setString() has been called, False otherwise
 	def setterUsed(self):
